@@ -1,0 +1,1 @@
+# 230925ATS060VAK_Programavimas
