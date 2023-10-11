@@ -42,6 +42,7 @@
             float skaiciusBeReiksmesTrupmeninis; // 0
             char simbolisBeReiksmes; // ???
             string tekstasBeReiksmes; // ???
+            bool loginisBeReiksmes; // ???
         }
     }
 }
