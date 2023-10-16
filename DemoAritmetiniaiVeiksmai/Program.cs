@@ -61,6 +61,14 @@ namespace DemoAritmetiniaiVeiksmai
             Console.WriteLine(skaicius);
             Console.WriteLine();
 
+            Console.WriteLine("Sutrumpintas kintamojo reikšmės keitimas");
+            // Žemiau pateiktos eilučių poros atlieka tą patį
+            skaicius = skaicius / 2;
+            skaicius /= 2;
+
+            skaicius = skaicius + 2;
+            skaicius += 2;
+
             Console.WriteLine("Kintamojo reikšmės didinimas / mažinimas vienetu");
             // indeksas++
             // indeksas = indeksas + 1
