@@ -6,7 +6,7 @@ namespace DemoIsvedimas
     {
         static void Main(string[] args)
         {
-            var currentConsoleOutputEncoding = Console.OutputEncoding;
+            // Lietuviškų raidžių rodymas konsolėje
             Console.OutputEncoding = System.Text.Encoding.Unicode;
 
             Console.WriteLine("Labas, pasauli!");
