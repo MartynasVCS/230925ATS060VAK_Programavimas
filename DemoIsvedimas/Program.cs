@@ -35,8 +35,6 @@ namespace DemoIsvedimas
 
             // The smart way :sun-glasses:
             Console.WriteLine($"Mano amžius: {amzius}, o mano ūgis: {ugis}.");
-
-
         }
     }
 }
