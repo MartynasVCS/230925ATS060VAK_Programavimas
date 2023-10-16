@@ -1,3 +1,3 @@
 # 230925ATS060VAK_Programavimas
 
-Mokomasis projektas
+Mokomasis projektas apie C# programavimą.
