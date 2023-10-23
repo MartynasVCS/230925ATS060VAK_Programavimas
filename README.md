@@ -4,3 +4,4 @@ Pabandykime padaryti sąrašą:
 - vienas
 - du
 - trys
+- keturi
